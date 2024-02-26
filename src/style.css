@@ -96,7 +96,7 @@ input,
 button,
 textarea,
 select {
-  font: inherit;
+  font: 1.2em "Geist", sans-serif;
 }
 
 /* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
